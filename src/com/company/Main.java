@@ -13,6 +13,7 @@ public class Main {
 
 
 //    developing the feature SUN
+
         SUN omaro = new SUN();
         omaro.temperature = "12334433kj";
         omaro.name = "ferro";
@@ -24,6 +25,15 @@ public class Main {
         superwomen.size="766585857km";
         superwomen.name="pliea";
         superwomen.color="green";
+
+     
+
+//        developing planet1
+        Planet1 superplanet=new Planet1();
+        superplanet.color="magenta";
+        superplanet.name="hash";
+        superplanet.size="545488km";
+
     }
 
 
